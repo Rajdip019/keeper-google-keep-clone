@@ -3,9 +3,6 @@
   margin: 0;
   box-sizing: border-box;
 }
-html {
-  font-family: "Montserrat", sans-serif;
-}
 body {
   background-color: rgb(185, 184, 184);
   background-image: url("https://www.transparenttextures.com/patterns/diagmonds-light.png");
